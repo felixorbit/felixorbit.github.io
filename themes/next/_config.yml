@@ -57,9 +57,9 @@ footer:
   # Icon between year and copyright info.
   icon:
     # Icon name in Font Awesome. See: https://fontawesome.com/icons
-    name: fa fa-heart
+    name: fab fa-heart
     # If you want to animate the icon, set it to true.
-    animated: false
+    animated: true
     # Change the color of icon, using Hex Code.
     color: "#ff0000"
 
@@ -103,7 +103,7 @@ scheme: Mist
 #scheme: Gemini
 
 # Dark Mode
-darkmode: false
+darkmode: true
 
 
 # ---------------------------------------------------------------
@@ -116,11 +116,11 @@ darkmode: false
 # When running the site in a subdirectory (e.g. yoursite.com/blog), remove the leading slash from link value (/archives -> archives).
 # External url should start with http:// or https://
 menu:
-  home: / || fa fa-home
-  archives: /archives/ || fa fa-archive
-  categories: /categories/ || fa fa-th
-  tags: /tags/ || fa fa-tags
-  about: /about/ || fa fa-user
+  home: / || fab fa-home
+  archives: /archives/ || fab fa-archive
+  categories: /categories/ || fab fa-th
+  tags: /tags/ || fab fa-tags
+  about: /about/ || fab fa-user
   # sitemap: /sitemap.xml || fa fa-sitemap
   # schedule: /schedule/ || fa fa-calendar
   # commonweal: /404/ || fa fa-heartbeat
@@ -178,7 +178,7 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/tfzhang006 || fab fa-github
-  E-Mail: mailto:tofengz@gmail.com || fa fa-envelope
+  E-Mail: mailto:tofengz@gmail.com || fab fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
@@ -195,7 +195,7 @@ social_icons:
 
 # Blog rolls
 links_settings:
-  icon: fa fa-link
+  icon: fab fa-link
   title: Links
   # Available values: block | inline
   layout: block
