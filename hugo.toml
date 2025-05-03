@@ -3,6 +3,10 @@ languageCode = 'zh-cn'
 title = '理想假设'
 theme = "hugo-digital-garden-theme"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   name = "felixorbit"
   description = "宇宙大开发计划"
