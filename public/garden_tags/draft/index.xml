@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>博客 on 理想假设</title>
-    <link>http://localhost:1313/garden/</link>
-    <description>Recent content in 博客 on 理想假设</description>
+    <title>Draft on 理想假设</title>
+    <link>http://localhost:1313/garden_tags/draft/</link>
+    <description>Recent content in Draft on 理想假设</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/garden/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/garden_tags/draft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WIP</title>
       <link>http://localhost:1313/garden/seeding_example/</link>
