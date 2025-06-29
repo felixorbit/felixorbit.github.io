@@ -1,6 +1,6 @@
 baseURL = 'https://felixorbit.github.io/'
 languageCode = 'zh-cn'
-title = '理想假设'
+title = 'felixorbit'
 theme = "hugo-digital-garden-theme"
 
 [caches]
@@ -20,7 +20,7 @@ theme = "hugo-digital-garden-theme"
 
   [[params.social]]
     name = "Github"
-    link = "#"
+    link = "https://github.com/felixorbit"
     icon = "fab fa-github"
 
   [[params.social]]

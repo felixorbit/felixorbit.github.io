@@ -1,12 +1,12 @@
 ---
-title: "文本处理工具流"
+title: "网页聚合站"
 date: 2025-05-03
 lastmod: 2025-05-03
 draft: false
 project_tags: ["工具"]
 status: "seeding"
-weight: 2
-summary: "集成常见文本处理工具的工作流"
+weight: 3
+summary: "聚合展示不同网页"
 links:
     external_link:
         text: "体验地址"
