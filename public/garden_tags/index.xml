@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Garden_tags on felixorbit</title>
-    <link>http://localhost:1313/garden_tags/</link>
+    <link>https://felixorbit.github.io/garden_tags/</link>
     <description>Recent content in Garden_tags on felixorbit</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/garden_tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://felixorbit.github.io/garden_tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Draft</title>
-      <link>http://localhost:1313/garden_tags/draft/</link>
+      <link>https://felixorbit.github.io/garden_tags/draft/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/garden_tags/draft/</guid>
+      <guid>https://felixorbit.github.io/garden_tags/draft/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<html><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
@@ -17,11 +17,11 @@
     
     
     
-    <title>felixorbit | 文本处理工具流</title>
+    <title>felixorbit | 文本处理工作流 Text Flow</title>
     <meta name="description" content="集成常见文本处理工具的工作流">
 </head><body><nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
-        <a class="navbar-brand" href="http://localhost:1313/">
+        <a class="navbar-brand" href="https://felixorbit.github.io/">
             
             <b style="font-weight: 800;">felixorbit</b>
             
@@ -54,7 +54,7 @@
 <div class="container" style="max-width: 800px;">
     <div class="py-4 rounded-3">
         <div class="container-fluid py-2">
-            <h1 class="display-2 mb-4 text-center">文本处理工具流</h1>
+            <h1 class="display-2 mb-4 text-center">文本处理工作流 Text Flow</h1>
         </div>
         
         <p class="text-center fs-4 fst-italic serif">集成常见文本处理工具的工作流</p>
@@ -62,12 +62,12 @@
         <div class="text-center pt-4">
             
             
-            <a href="#" role="button" class="btn btn-sm btn-link mx-2" target="_blank">
+            <a href="https://felixorbit.github.io/text-flow" role="button" class="btn btn-sm btn-link mx-2" target="_blank">
                 <i class="fas fa-external-link-alt fs-5"></i>
             体验地址
             </a>
             
-            <a href="#" role="button" class="btn btn-sm btn-link mx-2" target="_blank">
+            <a href="https://github.com/felixorbit/text-flow" role="button" class="btn btn-sm btn-link mx-2" target="_blank">
                 <i class="fab alt brands fa-github fs-5"></i>
             项目地址
             </a>
@@ -80,16 +80,16 @@
             <p class="card-date m-0">
                 
                 
-                    Created May 3, 2025 - 
+                    Created Jan 11, 2026 - 
                 
-                Last updated: May 3, 2025
+                Last updated: Jan 11, 2026
             </p>
             <hr class="dropdown-divider">
             <div class="row justify-content-between">
                 <div class="col-sm-4">
                     
     
-    <span class="status">Seeding 🌱</span>
+    <span class="status">Growing 🌿</span>
     
 
                 </div>
@@ -108,7 +108,24 @@
 
     <div class="container-fluid py-2">
         <div class="serif main-content">
-            
+            <h2 id="text-flow"id="text-flow"
+>Text Flow 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;https://felixorbit.github.io/projects/prj-text-proc-flow/#text-flow&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h2><p>Text Flow 是一个流式文本处理工具。用户可以使用 Text Flow 提供的丰富的文本处理模块灵活构建自己所需的文本处理工作流，完成复杂的文本处理任务。</p>
+<p>文本是信息的重要载体，我们日常工作生活需要频繁地和文本打交道。文本自身有着丰富的形式，如特定格式，特定编码等等，很多时候我们需要将文本在不同形式之间转换。我使用过很多非常好用的文本处理工具，但他们往往只完成单一任务，当我需要完成多步处理时，通常的做法是在一个工具里处理完成，然后复制粘贴到另一个工具里，这过程可能需要跨越多个网页，非常繁琐。因此我想拥有一个类似“管道”的流式处理工具，在定义好整个流程之后，他会自己完成所有工作，给我最终结果。</p>
+<p>Text Flow 首先预置了一系列常见的文本处理模块，如哈希，编码/解码，加密/解密，转义/去转义，json格式化/压缩，正则匹配等，每个模块独立，可以接受单个/多个输入或者输出单个/多个结果，通过一个友好的界面，用户可以创建包含多个节点的顺序或并行的工作流，每个节点包含一个处理模块，最后得到一个较复杂的文本处理器。</p>
+<p>本项目是我使用 <a href="https://geminicli.com/">Gemini CLI</a> 完成的，我所做的只是提出自己的想法和反馈意见，完全由它进行实现和更改。从试用来看，我觉得它完成的非常不错，整个过程中的体验也非常好，相比于前一个项目（Config UI）的开发过程有非常大的进步，我觉得有很大一部分得益于 Gemini 3 Pro 模型的能力提升。因此，我对 AI 将来可以达到的高度依然保持乐观。</p>
+
         </div>
     </div>
 </div>
@@ -117,7 +134,7 @@
         </div><div class="container">
     <div class="row justify-content-between">
         <div class="col-sm-4">
-            <p class="footer"> 2025 </p>
+            <p class="footer"> 2026 </p>
         </div>
         <div class="col-sm-6 d-flex flex-row-reverse">
             

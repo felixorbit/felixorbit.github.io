@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>工具 on felixorbit</title>
-    <link>http://localhost:1313/project_tags/%E5%B7%A5%E5%85%B7/</link>
+    <link>https://felixorbit.github.io/project_tags/%E5%B7%A5%E5%85%B7/</link>
     <description>Recent content in 工具 on felixorbit</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/project_tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://felixorbit.github.io/project_tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Config UI</title>
-      <link>http://localhost:1313/projects/prj-config-ui/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/prj-config-ui/</guid>
-      <description>通过表单完成 JSON 的可视化配置</description>
-    </item>
-    <item>
-      <title>文本处理工具流</title>
-      <link>http://localhost:1313/projects/prj-text-proc-flow/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/prj-text-proc-flow/</guid>
+      <title>文本处理工作流 Text Flow</title>
+      <link>https://felixorbit.github.io/projects/prj-text-proc-flow/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://felixorbit.github.io/projects/prj-text-proc-flow/</guid>
       <description>集成常见文本处理工具的工作流</description>
     </item>
     <item>
-      <title>网页聚合站</title>
-      <link>http://localhost:1313/projects/prj-uni-site/</link>
+      <title>JSON 可视化配置 Config UI</title>
+      <link>https://felixorbit.github.io/projects/prj-config-ui/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/prj-uni-site/</guid>
+      <guid>https://felixorbit.github.io/projects/prj-config-ui/</guid>
+      <description>通过表单完成 JSON 的可视化配置</description>
+    </item>
+    <item>
+      <title>网页聚合站</title>
+      <link>https://felixorbit.github.io/projects/prj-uni-site/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://felixorbit.github.io/projects/prj-uni-site/</guid>
       <description>聚合展示不同网页</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>阅读 on felixorbit</title>
-    <link>http://localhost:1313/library/</link>
+    <link>https://felixorbit.github.io/library/</link>
     <description>Recent content in 阅读 on felixorbit</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 10 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/library/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://felixorbit.github.io/library/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Red Panda</title>
-      <link>http://localhost:1313/library/book1/</link>
+      <link>https://felixorbit.github.io/library/book1/</link>
       <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/library/book1/</guid>
+      <guid>https://felixorbit.github.io/library/book1/</guid>
       <description>Biology and Conservation of the First Panda</description>
     </item>
     <item>
       <title>Fuji Takes a Walk</title>
-      <link>http://localhost:1313/library/book2/</link>
+      <link>https://felixorbit.github.io/library/book2/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/library/book2/</guid>
+      <guid>https://felixorbit.github.io/library/book2/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,1 +1,26 @@
 /* Custom styles go here */
+
+.display-2 {
+    font-size: 2.5rem;
+}
+
+:root {
+  /* 优化标题字体：保留原英文字体，增加常见中文字体栈 */
+  --title: 'Mulish', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+  
+  /* 优化各级标题字体 */
+  --headings: 'Encode Sans Semi Condensed', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+  
+  /* 优化正文/衬线字体：保留原英文字体，增加中文宋体/明体栈 */
+  --summary: 'Frank Ruhl Libre', 'Songti SC', 'SimSun', 'STSong', 'AR PL New Sung', serif;
+}
+
+/* 如果你也想让普通加粗字体在某些系统上显示得更好，可以补充下面的全局设置 */
+body {
+  font-family: var(--summary);
+}
+
+h1, h2, h3, h4, h5, h6, .display-2 {
+  font-family: var(--title);
+}
+

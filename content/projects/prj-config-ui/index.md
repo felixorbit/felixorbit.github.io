@@ -1,11 +1,10 @@
 ---
-title: "Config UI"
+title: "JSON 可视化配置 Config UI"
 date: 2025-05-03
 lastmod: 2025-06-29
 draft: false
 project_tags: ["工具"]
 status: "growing"
-weight: 1
 summary: "通过表单完成 JSON 的可视化配置"
 links:
     external_link:

@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>felixorbit</title>
-    <link>http://localhost:1313/</link>
+    <link>https://felixorbit.github.io/</link>
     <description>Recent content on felixorbit</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://felixorbit.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Config UI</title>
-      <link>http://localhost:1313/projects/prj-config-ui/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/prj-config-ui/</guid>
-      <description>通过表单完成 JSON 的可视化配置</description>
-    </item>
-    <item>
-      <title>文本处理工具流</title>
-      <link>http://localhost:1313/projects/prj-text-proc-flow/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/prj-text-proc-flow/</guid>
+      <title>文本处理工作流 Text Flow</title>
+      <link>https://felixorbit.github.io/projects/prj-text-proc-flow/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://felixorbit.github.io/projects/prj-text-proc-flow/</guid>
       <description>集成常见文本处理工具的工作流</description>
     </item>
     <item>
-      <title>网页聚合站</title>
-      <link>http://localhost:1313/projects/prj-uni-site/</link>
+      <title>JSON 可视化配置 Config UI</title>
+      <link>https://felixorbit.github.io/projects/prj-config-ui/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/prj-uni-site/</guid>
+      <guid>https://felixorbit.github.io/projects/prj-config-ui/</guid>
+      <description>通过表单完成 JSON 的可视化配置</description>
+    </item>
+    <item>
+      <title>网页聚合站</title>
+      <link>https://felixorbit.github.io/projects/prj-uni-site/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://felixorbit.github.io/projects/prj-uni-site/</guid>
       <description>聚合展示不同网页</description>
     </item>
     <item>
       <title>关于「我」</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://felixorbit.github.io/about/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://felixorbit.github.io/about/</guid>
       <description>有点无聊</description>
     </item>
     <item>
       <title>Red Panda</title>
-      <link>http://localhost:1313/library/book1/</link>
+      <link>https://felixorbit.github.io/library/book1/</link>
       <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/library/book1/</guid>
+      <guid>https://felixorbit.github.io/library/book1/</guid>
       <description>Biology and Conservation of the First Panda</description>
     </item>
     <item>
       <title>Fuji Takes a Walk</title>
-      <link>http://localhost:1313/library/book2/</link>
+      <link>https://felixorbit.github.io/library/book2/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/library/book2/</guid>
+      <guid>https://felixorbit.github.io/library/book2/</guid>
       <description></description>
     </item>
     <item>
       <title>WIP</title>
-      <link>http://localhost:1313/garden/seeding_example/</link>
+      <link>https://felixorbit.github.io/garden/seeding_example/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/garden/seeding_example/</guid>
+      <guid>https://felixorbit.github.io/garden/seeding_example/</guid>
       <description></description>
     </item>
   </channel>
